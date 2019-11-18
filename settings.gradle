@@ -1,0 +1,2 @@
+include ':app', ':library_bbz'
+rootProject.name='App_new_library'
